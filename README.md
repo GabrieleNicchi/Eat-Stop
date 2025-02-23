@@ -1,4 +1,4 @@
-!!Important 
+#Important 
 The API on which the application is based were created by the University of Milan for the purpose of creating an exam project. 
 It is likely that these APIs have been removed and network calls, as a result, do not return any data
 
