@@ -58,7 +58,8 @@ Every 5 seconds the screen updates showing the movement of the drone towards the
 
 Once the drone reaches its arrival, the information relating to the order is updated
 
-Loading Screen:
+<h2>Loading Screen:</h2>
+
 ![Loading](https://github.com/user-attachments/assets/cbadff59-fcd0-4366-8f84-bb16244c3766)
 
 
