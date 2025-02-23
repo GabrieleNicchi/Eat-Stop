@@ -62,4 +62,10 @@ Once the drone reaches its arrival, the information relating to the order is upd
 
 ![Loading](https://github.com/user-attachments/assets/cbadff59-fcd0-4366-8f84-bb16244c3766)
 
+## Installazione
+To install the project, run the following commands:
+
+```bash
+npm install
+npm start
 
