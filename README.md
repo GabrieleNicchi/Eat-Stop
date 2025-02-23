@@ -8,25 +8,32 @@ It is likely that these APIs have been removed and network calls, as a result, d
 You have been hired by the Italian startup "eat and that's it" that sells meals at home. There
 startup stands out from the competition for its speed of purchase and delivery. In fact, instead
 rather than composing menus by choosing various dishes, the user can directly purchase a menu which
-it is also delivered to the point from which it was purchased in a very short time via a
+it is also delivered to the point from which it was purchased in a very short time by a
 drone.
 
-Home-Page:
-![Home_React](https://github.com/user-attachments/assets/4ac97848-cbae-4526-900f-b817e1faabd4)
+<h2>Home-Page:</h2>
+
+<p>![Home_React](https://github.com/user-attachments/assets/4ac97848-cbae-4526-900f-b817e1faabd4)</p>
+
 On the Home Page the user can view his profile, the list of meals near him and the last order placed
 
-Profile:
-![ProfileNot_React](https://github.com/user-attachments/assets/c34a083a-72f3-4d59-ad73-eaa68f341327)
+<h2>Profile:</h2>
+
+<p>![ProfileNot_React](https://github.com/user-attachments/assets/c34a083a-72f3-4d59-ad73-eaa68f341327)</p>
+
 If the user has not yet entered his data, a form will be shown to do so
 
-![Profile_React](https://github.com/user-attachments/assets/780ff0ef-fd8c-46c8-a4fa-e6e6a597bdad)
+<p>![Profile_React](https://github.com/user-attachments/assets/780ff0ef-fd8c-46c8-a4fa-e6e6a597bdad)</p>
+
 Once registered, their information will be shown, a user cannot place an order until they are registered
-![NotRegistered_React](https://github.com/user-attachments/assets/50f1b9b5-2dd9-4158-aeea-f68eb485c0df)
+
+<p>![NotRegistered_React](https://github.com/user-attachments/assets/50f1b9b5-2dd9-4158-aeea-f68eb485c0df)</p>
 
 
-MenuList:
-![MenuList_React](https://github.com/user-attachments/assets/f861b770-2aea-40e0-87b6-3d5835bcdf52)
-![Position_React](https://github.com/user-attachments/assets/30b2764f-d5e0-4092-9dca-7e0df2200f29)
+<h2>MenuList:</h2>
+
+<p>![MenuList_React](https://github.com/user-attachments/assets/f861b770-2aea-40e0-87b6-3d5835bcdf52)</p>
+<p>![Position_React](https://github.com/user-attachments/assets/30b2764f-d5e0-4092-9dca-7e0df2200f29)</p>
 
 Once the permissions to access the location are accepted, the user can view 20 menus near him
 
